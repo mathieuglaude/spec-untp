@@ -14,6 +14,7 @@ Summary list of software products and status of implementation.  Scope defines t
 |Organisation Name |Product Name|UNTP Scope|Status|
 |--|--|--|--|
 |[Sample software](#sample-software)|Sample supply chain transparency & traceability platform|VCP, DPP, DTE, DCC, DFR, DIA, IDR|planned| 
+|[Northern Block Orbit Enterprise](https://northernblock.io/)|Standards-based digital credentialing platform for the mining industry|TBA|implementing|
 | | | | |
 
 
